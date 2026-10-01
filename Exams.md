@@ -1,12 +1,13 @@
 **Role of the tutors:** Organisation and surveillance of Exams
 
-**Retribution:** Logtime and Wallet points (and free coffee before the exam at the bocal)
+**Retribution:** Logtime and Wallet points (and a free drink during your shift)
+Note : Since you get your logtime for the shift, please logout before starting it. If you don't do it, you get a TIG
 
 ## General rules for any exam
 
 **For you, as a tutor**
 
-- Clusters have to be checked before the exam, and we welcome the participants **20 min** before the exam begins. So be there on time.
+- Clusters have to be checked before the exam (we start checking 45 min before the start of the exam), and we welcome the participants **20 min** before the exam begins. So be there on time.
 - When an exam is on the intranet, tutors cannot unregister from their shift if the waiting list is empty.
 - If you want to unregister from an exam with an empty waiting list, find your successor and contact a supervising tutor.
  
@@ -38,7 +39,7 @@ Only Bocal exams will be guaranteed.
 On top of the "Bocal exams", tutors can organize exams at their time and hour convenience.
 Exam are only posted on intranet when minimum tutors requirement are reached. After that tutors can't unsubscribe if waiting list is empty.
 
-NB: At the moment, 1 exam is guaranteed the first Thursday (week) of the month, and 1 optional the third Thursday (week) of the month, so 2 max per month.
+NB: For the moment a Bocal exam append the first or second week of each month. And there is an exam every week. One week at Antwerp and the next one at Brussels. ( Those are tutors exam except the week of the Bocal exam )
 
 ## Exam attendance
 
