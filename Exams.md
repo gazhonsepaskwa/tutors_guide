@@ -39,7 +39,7 @@ Only Bocal exams will be guaranteed.
 On top of the "Bocal exams", tutors can organize exams at their time and hour convenience.
 Exam are only posted on intranet when minimum tutors requirement are reached. After that tutors can't unsubscribe if waiting list is empty.
 
-NB: For the moment a Bocal exam append the first or second week of each month. And there is an exam every week. One week at Antwerp and the next one at Brussels. ( Those are tutors exam except the week of the Bocal exam )
+NB: For the moment a Bocal exam append the first or second week of each month. And there is an exam every week, alternating between Antwerp and Brussels. ( Those are tutors exam except the week of the Bocal exam )
 
 ## Exam attendance
 
